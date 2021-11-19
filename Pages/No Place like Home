@@ -1,0 +1,105 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@MTG29
+MTG29 /
+Site-Pratique-M-Gentien
+Public
+
+1
+0
+
+    0
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+Site-Pratique-M-Gentien/Pages/Home.md.txt
+@MTG29
+MTG29 Boom bim bam
+Latest commit dc69805 1 minute ago
+History
+1 contributor
+55 lines (31 sloc) 2.38 KB
+<h1> Bienvenue sur ces quelques pages consacrées à la restauration d'une Batterie Pearl Export ELX de 1999 </h1> 
+
+<p>Achetée avec des cymbales Sabian ProSonix pour une somme raisonnable en juin 2021, je souhaite démonter, nettoyer, protéger les fûts et le hardware Pearl acquis avec.</p> 
+
+<div align="center">
+![ELX.png](https://bitbucket.org/repo/MdoMq7M/images/1383855188-ELX.png)
+</div>
+
+"L'ELX telle que je l'ai achetée"
+
+## Les étapes de la restauration
+
+Ces étapes sont au nombre de 3. 
+
+1. [**démontage**](https://bitbucket.org/MatthieuGG/essai/wiki/D%C3%A9montage) ![démontage.jpg](https://bitbucket.org/repo/MdoMq7M/images/426213190-d%C3%A9montage.jpg)
+1. **le nettoyage** [(nettoyage)] ![Cleaning.jpg](https://bitbucket.org/repo/MdoMq7M/images/3691423893-Cleaning.jpg)
+1. **la protection** [(protection)](https://bitbucket.org/MatthieuGG/essai/wiki/create)
+
+1. [**liste de batteurs appréciables**](https://bitbucket.org/MatthieuGG/essai/wiki/Liste%20de%20batteurs%20appr%C3%A9ciables) ![animal.jpg](https://bitbucket.org/repo/MdoMq7M/images/833166895-animal.jpg)
+
+This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax. The [MarkDownDemo . tutorial](https://bitbucket.org/tutorials/markdowndemo) shows how various elements are rendered. The [Bitbucket documentation](https://confluence.atlassian.com/x/FA4zDQ) has more information about using a wiki.
+
+The wiki itself is actually a git repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
+
+Go ahead and try:
+
+```
+$ git clone https://MatthieuGG@bitbucket.org/MatthieuGG/essai.git/wiki
+```
+
+Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
+
+## Syntax highlighting
+
+
+You can also highlight snippets of text (we use the excellent [Pygments][] library).
+
+[Pygments]: http://pygments.org/
+
+
+Here's an example of some Python code:
+
+```python
+
+def wiki_rocks(text):
+    formatter = lambda t: "funky"+t
+    return formatter(text)
+```
+
+
+You can check out the source of this page to see how that's done, and make sure to bookmark [the vast library of Pygment lexers][lexers], we accept the 'short name' or the 'mimetype' of anything in there.
+[lexers]: http://pygments.org/docs/lexers/
+
+
+Have fun!![protection.jpg](https://bitbucket.org/repo/MdoMq7M/images/1625673636-protection.jpg)
+
+    © 2021 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+Loading complete
